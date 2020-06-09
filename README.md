@@ -1,0 +1,2 @@
+# yigido
+Türkçe gelişmiş bot
